@@ -1,16 +1,16 @@
-\# Resistor
+# Resistor
 
-\## Story Time!
+## Story Time!
 
 A client asked my to help him/her with her programming class final activity.   
 
 She/he sent me her/his project proposal titled "Band Resistor color code Identification and Resistor Value Reader".
 
-\## Documentation
+## Documentation
 
 Inside main.py, along with the main function, there are 2 functions named  get\_resistor\_value and get\_color\_band.
 
-\### get\_resistor\_value
+### get_resistor_value
 
 ```python
 digits = {'Black': 0, 'Brown': 1,
